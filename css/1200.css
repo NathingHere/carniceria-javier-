@@ -1,0 +1,75 @@
+@media (min-width: 800px) and (max-width: 1200px) {
+
+    /*MAIN*/
+    .principal {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .inicio, .principal .formulario{
+        width: 80%;
+        margin: 0 auto;
+      }
+
+    section {
+        width: 50%;
+    }
+
+    section>img {
+        width: 90%;
+    }
+
+    /*REDES*/
+    #facebook {
+        margin-left: 30%;
+      }
+      
+      #google {
+        margin-left: 10%;
+      }
+      
+    #map{
+        margin-left: 10%;
+    }
+
+    /*FORMULARIO*/
+    .formulario {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #mensaje {
+        width: 100%;
+    }
+
+    #email> h3, input {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #telefono> h3, input {
+        width: 90%;
+        margin-left: 5%;
+    }
+
+    #mensaje>h3, textarea {
+        width: 95%;
+        margin-left: 2.5%;
+    }
+
+    #boton {
+        margin-left: 83%;
+      }
+    
+
+
+      
+    
+    
+    
+
+
+
+
+
+}

@@ -1,0 +1,66 @@
+@media screen and (max-width: 800px) {
+
+      img {
+        width: 100%;
+      }
+
+      #superior {
+        margin-bottom: 5%;
+      }
+      
+      #inferior {
+        margin: 0;
+      }
+
+      .inicio, .principal {
+        width: 80%;
+        margin: 0 auto;
+
+      }
+
+      .principal {
+        margin-top: 20%;
+      }
+
+      .principal>p {
+        margin-bottom: 10%;
+      }
+
+      /*FORMULARIO*/
+
+    #email> h3, input {
+      width: 60%;
+      margin-left: 20%;
+    }
+
+    #telefono> h3, input {
+      width: 60%;
+      margin-left: 20%;
+    }
+
+    #mensaje>h3, textarea {
+      width: 60%;
+      margin-left: 20%;
+    }
+
+      /*REDES*/
+      #facebook {
+        margin-left: 15%;
+      }
+
+      #google {
+        margin-left: 10%;
+      }
+
+      #map{
+        margin-left: 10%;
+      }
+
+      #boton {
+        margin-left: 66%;
+      }
+
+      section > img {
+        width: 100%;
+      }
+}
